@@ -2,7 +2,7 @@
 
 ## > SYSTEM ID
 ```bash
-┌─[ragul@cyberspace]─[~/profile]
+┌─[siddhu@cyberspace]─[~/profile]
 └──╼ whoami
                   ╔══════════════════════════════════════════════════════════════╗
                   ║  NAME         │ Siddhartha NV                                ║
